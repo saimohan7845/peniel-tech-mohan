@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.js": "/material-kit-react/static/js/main.3754d9e1.js",
+    "static/media/rotating-card-bg-front.jpeg": "/material-kit-react/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
+    "static/media/macbook.png": "/material-kit-react/static/media/macbook.e0a8c5d5cc02d71b6d86.png",
+    "static/media/bg-coworking.jpeg": "/material-kit-react/static/media/bg-coworking.06bccc47fe6ae5366bf8.jpeg",
+    "static/media/bg-sign-in-basic.jpeg": "/material-kit-react/static/media/bg-sign-in-basic.f327db1d0e4b00ba3c81.jpeg",
+    "static/media/city-profile.jpg": "/material-kit-react/static/media/city-profile.4d64bba97c3d1757379e.jpg",
+    "static/media/bg-presentation.jpg": "/material-kit-react/static/media/bg-presentation.889630297390d27e8dfb.jpg",
+    "static/media/rotating-card-bg-back.jpeg": "/material-kit-react/static/media/rotating-card-bg-back.183088de91adb283a9ae.jpeg",
+    "static/media/waves-white.svg": "/material-kit-react/static/media/waves-white.7e7579c6e93ead70064fb4e8dd899f32.svg",
+    "static/media/blog2.jpg": "/material-kit-react/static/media/blog2.aba7a3cb94805e9557d1.jpg",
+    "static/media/bg-about-us.jpg": "/material-kit-react/static/media/bg-about-us.cf9a123e2a3d371d53da.jpg",
+    "static/media/team.webp": "/material-kit-react/static/media/team.69b7a97953aee29a6b24.webp",
+    "static/media/clients.jpg": "/material-kit-react/static/media/clients.9490e0e15dd260c79127.jpg",
+    "static/media/react.png": "/material-kit-react/static/media/react.e6c2e8053ed6572f3d5f.png",
+    "static/media/plogo.png": "/material-kit-react/static/media/plogo.90ea18d5e96c8ab9bcca.png",
+    "static/media/java.png": "/material-kit-react/static/media/java.ad3e371317fea9d82a18.png",
+    "static/media/boy.webp": "/material-kit-react/static/media/boy.37ab2b7b0a98d35c2c76.webp",
+    "static/media/bruce-mars.jpg": "/material-kit-react/static/media/bruce-mars.8a606c4a6dab54c9ceff.jpg",
+    "static/media/javascript.png": "/material-kit-react/static/media/javascript.57b026e6bee32e00e9f0.png",
+    "static/media/team-5.jpg": "/material-kit-react/static/media/team-5.d59ab7b9f95f1169cf83.jpg",
+    "static/media/operations.webp": "/material-kit-react/static/media/operations.983a07d7d75461275490.webp",
+    "static/media/ivana-square.jpg": "/material-kit-react/static/media/ivana-square.f7bc23b269d1d2509c82.jpg",
+    "static/media/ivana-squares.jpg": "/material-kit-react/static/media/ivana-squares.3c555b856b04c2ab921b.jpg",
+    "static/media/smoother.webp": "/material-kit-react/static/media/smoother.eb2f4fa14dcb20ccac85.webp",
+    "static/media/compnay-logo-1.webp": "/material-kit-react/static/media/compnay-logo-1.c1226d7d3a1ac58b0533.webp",
+    "static/media/compnay-logo-4.webp": "/material-kit-react/static/media/compnay-logo-4.21a09d700120aab1e771.webp",
+    "static/media/compnay-logo-3.webp": "/material-kit-react/static/media/compnay-logo-3.5dfbd65230b9fd56a774.webp",
+    "static/media/compnay-logo-6.webp": "/material-kit-react/static/media/compnay-logo-6.2ff16605aad2a8e07615.webp",
+    "static/media/compnay-logo-2.webp": "/material-kit-react/static/media/compnay-logo-2.07b61cb1f57179980c3c.webp",
+    "static/media/compnay-logo-5.webp": "/material-kit-react/static/media/compnay-logo-5.5455d5a0831c959dff1d.webp",
+    "index.html": "/material-kit-react/index.html",
+    "main.3754d9e1.js.map": "/material-kit-react/static/js/main.3754d9e1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3754d9e1.js"
+  ]
+}
